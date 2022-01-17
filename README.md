@@ -1,4 +1,4 @@
-# NYT_Sentiment_Analysis
+# NYT Sentiment Analysis
  US Presidents Sentiment Analysis from NYT Abstracts
 
 ![US Presidents New York Times abstracts](us_presidents.jpg)
